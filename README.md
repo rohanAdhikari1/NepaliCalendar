@@ -18,3 +18,4 @@ dependencies {
 	        implementation 'com.github.rohanAdhikari1:NepaliCalendar:1.0.0'
 	}
 ```
+[![](https://jitpack.io/v/rohanadhikari1/NepaliCalendar.svg)](https://jitpack.io/#rohanadhikari1/NepaliCalendar)
