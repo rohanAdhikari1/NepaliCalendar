@@ -15,6 +15,6 @@
 
 ```gradle
 dependencies {
-	        implementation 'com.github.rohanAdhikari1:NepaliCalendar:Tag'
+	        implementation 'com.github.rohanAdhikari1:NepaliCalendar:1.0.0'
 	}
 ```
