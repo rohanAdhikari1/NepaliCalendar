@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="mero_accent_color">#044b8b</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="mero_primary_color">#26324A</color>
+    <color name="mero_light_primary_color">#BF26324A</color>
+    <color name="holiday_sat_color">#DD0000</color>
+
+    <color name="subTextColor">#6E6E6E</color>
+
+
+
+</resources>
