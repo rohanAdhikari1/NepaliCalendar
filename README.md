@@ -148,5 +148,4 @@ dependencies {
             }
 ```
  
- <br />
 [![](https://jitpack.io/v/rohanadhikari1/NepaliCalendar.svg)](https://jitpack.io/#rohanadhikari1/NepaliCalendar)
